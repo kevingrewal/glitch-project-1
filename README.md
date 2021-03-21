@@ -3,7 +3,7 @@ Memory Game is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
 Submitted by: Kevin Grewal
 
-Time spent: 6 hours spent in total
+Time spent: 7 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/respected-stone-sheet
 
