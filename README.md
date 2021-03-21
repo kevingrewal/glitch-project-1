@@ -55,7 +55,7 @@ The following additional features are implemented:
 
 Video Walkthrough
 
-Here's a walkthrough of implemented user stories: ![] https://recordit.co/ty94TJYVjD
+Here's a walkthrough of implemented user stories: ![] http://g.recordit.co/ty94TJYVjD.gif
 
 Reflection Questions
 If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
